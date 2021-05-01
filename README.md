@@ -6,7 +6,7 @@ This is a command-line application that provides a solution to the Battleships p
 
 ### Prerequisites
 
-Download and install the [.NET Core SDK 5](<https://dotnet.microsoft.com/download/dotnet/5.0> on your computer.
+Download and install the [.NET Core SDK 5](<https://dotnet.microsoft.com/download/dotnet/5.0>) on your computer.
 
 ### Installing
 
