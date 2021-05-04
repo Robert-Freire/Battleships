@@ -55,7 +55,7 @@ The root of our domain is the Game class. This class is composed of a GameConfig
 
 The more interesting part of the domain is the random positioning of the ships. What the Game does is:
 
-1. roll a dice to decide how we want to position the ship "horizontal"/"vertical"
+1. Roll a dice to decide how we want to position the ship "horizontal"/"vertical"
 1. Get the cells that in an empty board can be used as a start position of the ship in the direction selected, removing the cells that will put the ship in collision with previous positioned ships
 1. Roll a dice to decide which of the valid cells we will use to position the ship
 
