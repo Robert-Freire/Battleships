@@ -1,4 +1,4 @@
-# RoutePlanner
+# Battleships
 
 This is a command-line application that provides a solution to the Battleships problem defined [here](https://medium.com/guestline-labs/hints-for-our-interview-process-and-code-test-ae647325f400)
 
